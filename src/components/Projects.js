@@ -171,7 +171,7 @@ class Projects extends Component {
           </Typography>
         </CardContent>
         <CardActions>
-          <Button size="small" color="primary" href="https://github.com/kkudumu/CountdownBoss_React" rel="noopener noreferrer" target="_blank">
+          <Button size="small" color="primary" href="https://github.com/kkudumu/portfolio_react" rel="noopener noreferrer" target="_blank">
             Github
           </Button>
 
