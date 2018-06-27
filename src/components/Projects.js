@@ -105,7 +105,7 @@ class Projects extends Component {
           </Typography>
         </CardContent>
         <CardActions>
-          <Button size="small" color="primary" href="https://github.com/kkudumu/EmployeeList_ReactNative" rel="noopener noreferrer" target="_blank">
+          <Button style={{marginTop:63}} size="small" color="primary" href="https://github.com/kkudumu/EmployeeList_ReactNative" rel="noopener noreferrer" target="_blank">
             Github
           </Button>
         </CardActions>
@@ -126,7 +126,7 @@ class Projects extends Component {
           </Typography>
         </CardContent>
         <CardActions>
-          <Button size="small" color="primary" href="https://github.com/kkudumu/PokemonMap_ReactNative" rel="noopener noreferrer" target="_blank">
+          <Button style={{marginTop:63}} size="small" color="primary" href="https://github.com/kkudumu/PokemonMap_ReactNative" rel="noopener noreferrer" target="_blank">
             <br/>Github
           </Button>
         </CardActions>
@@ -147,10 +147,10 @@ class Projects extends Component {
           </Typography>
         </CardContent>
         <CardActions>
-          <Button size="small" color="primary" href="https://github.com/kkudumu/CountdownBoss_React" rel="noopener noreferrer" target="_blank">
+          <Button style={{marginTop:63}} size="small" color="primary" href="https://github.com/kkudumu/CountdownBoss_React" rel="noopener noreferrer" target="_blank">
             Github
           </Button>
-          <Button size="small" color="primary" href="https://kkudumu.github.io/CountdownBoss_React/" rel="noopener noreferrer" target="_blank">
+          <Button style={{marginTop:63}} size="small" color="primary" href="https://kkudumu.github.io/CountdownBoss_React/" rel="noopener noreferrer" target="_blank">
             Try It Here!
           </Button>
         </CardActions>
